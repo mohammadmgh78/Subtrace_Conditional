@@ -1,0 +1,9 @@
+# Track only code files
+*
+!*/
+!.gitignore
+!*.py
+!*.ipynb
+__pycache__/
+.claude/
+test.ipynb
